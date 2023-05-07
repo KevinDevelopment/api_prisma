@@ -19,3 +19,5 @@ class updateUserController {
         })
     }
 }
+
+module.exports = new updateUserController();
